@@ -3,7 +3,7 @@ A collection of Transcriptions I made.
 
 # Metadata
 
-* [metadata.csv]('./metadata.csv')  
+* [metadata.csv]('https://github.com/pIlIp-d/DrumNotes/metadata.csv')  
  filled with `Filename`, `Title`, `Artists`, `Genres`, `Instrument`
 
 ## Strtists and Genres
